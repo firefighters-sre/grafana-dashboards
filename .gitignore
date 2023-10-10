@@ -1,0 +1,14 @@
+# System-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Development environment
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# User-specific Grafana files (add any Grafana-specific files/folders you know of)
+*.user.ini
